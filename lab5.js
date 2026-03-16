@@ -60,8 +60,3 @@ function firstLetterPosition(word, match) {
   }
   return -1;
 }
-
-console.log(firstLetterPosition("test", "t"));
-console.log(firstLetterPosition("test", "z"));
-letterFinder("banana", "a");
-letterFinder("hello", "z");
